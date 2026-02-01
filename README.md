@@ -1,2 +1,3 @@
 # WorkingWithControlstructures
-uge 2 
+uge 2 hos morten og lena
+
